@@ -1,0 +1,27 @@
+html, body {
+    margin: 0px;
+    background-color: hsl(122, 25%, 25%);
+    color: white;
+}
+
+
+.title-1 {
+    text-align: center;
+    background-color: hsl(122, 25%, 25%);
+    color: white;
+    padding: 20px;
+    font-size: 25px;
+}
+
+.letter {
+    position: relative;
+    width: 150px;
+    left: 100px;
+    margin-left: -75px;
+}
+
+#computer-letters, #player-letters {
+    height: 240px;
+}
+
+
